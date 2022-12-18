@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">Asspiring frontend developer</h3>
+<h3 align="center">Aspiring frontend developer</h3>
 
 - 🔭 I’m currently working on **Apna E-Store**
 
