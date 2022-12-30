@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">Asspiring Web developer</h3>
+<h3 align="center">Aspiring Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmu35&label=Profile%20views&color=0e75b6&style=flat" alt="hmu35" /> </p>
 
