@@ -1,4 +1,4 @@
-<img height="300" width="800" object-fit="fill"   src="https://github.com/hmu35/hmu35/blob/main/HIMANSHU.png?raw=true" />
+<img height="300" width="700" object-fit="fill"   src="https://github.com/hmu35/hmu35/blob/main/HIMANSHU.png?raw=true" />
 
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">Aspiring Web developer</h3>
