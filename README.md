@@ -2,7 +2,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;JAVA+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h3 align="center">Aspiring Web developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmu35&label=Profile%20views&color=0e75b6&style=flat" alt="hmu35" /> </p>
 
