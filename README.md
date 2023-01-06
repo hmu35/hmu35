@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Apna E-Store**
 
-- 🌱 I’m currently learning **Java, SpringBoot, SQL**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **h406627@gmail.com**
 
