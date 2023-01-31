@@ -14,7 +14,6 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 📫 How to reach me **h406627@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
