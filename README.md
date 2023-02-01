@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;JAVA+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;JAVA+Developer;Web+Developer&color=cyan&center=true" />
 </div>
 
 
