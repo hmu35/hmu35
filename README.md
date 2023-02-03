@@ -13,13 +13,13 @@
 - 🔭 I’m currently working on **Apna E-Store**
 
 - 🌱 I’m currently learning **SpringBoot**
-- - 📫 How to reach me **<a href="https://hmu35.github.io" target="blank">Portfolio.github.io</a> **
+- - 📫 How to reach me **<a href="" target="blank">Portfolio</a> **
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-kumar-764822257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-kumar-764822257" height="30" width="40" /></a>
-
+<a href="https://hmu35.github.io" target="blank">PortFolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
