@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Apna E-Store**
 
 - 🌱 I’m currently learning **SpringBoot**
-- - 📫 How to reach me **<a href="" target="blank">Portfolio</a> **
+
 
 
 <h3 align="left">Connect with me:</h3>
