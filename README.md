@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **h406627@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kJExdD-ji-668y_tadHowvWGC_kxwi5J/view?usp=sharing](https://drive.google.com/file/d/1kJExdD-ji-668y_tadHowvWGC_kxwi5J/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
