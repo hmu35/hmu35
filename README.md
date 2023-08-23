@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Stock Broker Management System](https://github.com/hmu35/-lousy-rabbit-6500)
 
-- 🌱 I’m currently learning **Java, SpringBoot, SQL, Hibernate**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://hmu35.github.io/](https://hmu35.github.io/)
 
