@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;JAVA+Developer;Web+Developer&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JAVA+Developer;&color=cyan&center=true" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmu35&label=Profile%20views&color=0e75b6&style=flat" alt="hmu35" /> </p>
 
