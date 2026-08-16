@@ -1,201 +1,508 @@
 <div align="center">
 
-# HIMANSHU KUMAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=220&section=header&text=Himanshu%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descAlignY=58&descSize=20"/>
 
-### Full Stack Software Developer
-
-**.NET / .NET Core · C# · ASP.NET MVC · REST APIs · SQL Server**
+<h2>.NET / .NET Core • C# • ASP.NET MVC • REST APIs • SQL Server</h2>
 
 <p>
   <a href="https://github.com/hmu35">
-    <img src="https://img.shields.io/badge/GitHub-hmu35-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-hmu35-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/himanshu-kumar-764822257">
-    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:h406627@gmail.com">
-    <img src="https://img.shields.io/badge/Email-h406627%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-h406627-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hmu35&label=Profile%20Views&style=flat-square"/>
+  <a href="https://hmu35.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+Business+Applications;Designing+API-Driven+Workflows;Working+with+.NET+%26+.NET+Core;Turning+Business+Requirements+into+Software;Backend+%2B+Frontend+%2B+Database"/>
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Full Stack Developer with professional experience building and enhancing **business applications, PMS/ERP platforms, e-commerce systems and workflow-driven web applications**.
+I am a **Full Stack Software Developer** with professional experience building and enhancing **business applications, PMS/ERP systems, e-commerce platforms and workflow-driven web applications**.
 
-My current work is focused on **.NET / .NET Core, C#, ASP.NET MVC, REST APIs, SQL Server and frontend integration** using HTML, CSS, JavaScript, jQuery and Bootstrap.
+My primary professional stack is **.NET / .NET Core, C#, ASP.NET MVC, REST APIs and SQL Server**, combined with frontend technologies such as **HTML, CSS, JavaScript, jQuery and Bootstrap**.
 
-I work across the application stack — from **database-driven backend logic and APIs to business workflows and responsive user interfaces**.
+I work across the complete application flow:
 
----
+```text
+UI
+  ↓
+Frontend Logic
+  ↓
+MVC / Backend
+  ↓
+REST APIs
+  ↓
+Business Logic
+  ↓
+SQL Server / Database
+```
 
-## What I Work On
-
-| Area               | Focus                                            |
-| ------------------ | ------------------------------------------------ |
-| **Backend**        | .NET, .NET Core, ASP.NET MVC, C#                 |
-| **APIs**           | REST API development & integration               |
-| **Database**       | SQL Server, MySQL, SQL queries & procedures      |
-| **Frontend**       | HTML, CSS, JavaScript, jQuery, Bootstrap         |
-| **Applications**   | PMS / ERP, E-Commerce, Government Portals        |
-| **Business Logic** | Billing, inventory, orders, reporting, workflows |
-| **Other**          | Git, GitHub, VB, Java, Spring Boot, Hibernate    |
-
----
-
-## Current Engineering Work
-
-### Scan-to-Invoice & Purchase Import Automation
-
-Currently contributing to an invoice automation feature inside a PMS application.
-
-**Workflow**
-
-`Invoice PDF / Image` → `Data Mapping` → `Structured Data` → `Purchase Import`
-
-**Key work**
-
-* Invoice PDF/image upload and processing
-* Mapping invoice information into structured fields
-* JSON-style field mapping for required data
-* Importing mapped information directly into Purchase Entry
-* API-driven workflow and database integration
-
-**Stack:** `.NET 10` · `ASP.NET MVC` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+My experience includes working on **billing, inventory, GST, reporting, order management, e-commerce, logistics, government workflows and invoice automation**.
 
 ---
 
-## Selected Projects
+## ⚡ Engineering Focus
 
-### Sudha Bikri Kendra
+<table>
+<tr>
+<td width="50%">
 
-**Government Application Portal**
+### Backend Engineering
 
-.NET Core MVC application focused on form-driven workflows, backend processing and database-connected business logic.
+* .NET / .NET Core
+* ASP.NET MVC
+* C#
+* VB / VB.NET
+* Entity Framework
+* REST APIs
+* API integration
+* Business logic
+* Database-driven applications
 
-**Tech:** `.NET Core MVC` · `C#` · `SQL Server` · `JavaScript` · `jQuery`
+</td>
+<td width="50%">
 
-🌐 **[sudhabikrikendra.in](https://sudhabikrikendra.in/)**
+### Frontend Engineering
 
----
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Bootstrap
+* Responsive UI
+* Forms & validations
+* Dynamic workflows
+* Frontend / backend integration
 
-### PMS / ERP Web Application
+</td>
+</tr>
 
-Business management platform supporting billing, inventory, GST, reporting and day-to-day ERP workflows.
+<tr>
+<td>
 
-**Tech:** `ASP.NET` · `VB` · `ASPX` · `MSSQL` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+### Database
 
-🌐 **[pmswebdn.dynode.in](https://pmswebdn.dynode.in/)**
+* Microsoft SQL Server
+* MySQL
+* Access Database
+* SQL queries
+* SQL procedures
+* Data-driven workflows
+* ERP database operations
 
----
+</td>
+<td>
 
-### B2B Order & E-Commerce System
+### Development
 
-Online B2B ordering platform integrated with PMS for order synchronization, billing and reporting.
+* Git
+* GitHub
+* API integration
+* Workflow automation
+* E-commerce systems
+* PMS / ERP systems
+* Admin systems
+* Production-oriented business applications
 
-**Tech:** `.NET / .NET Core MVC` · `C#` · `SQL Server` · `JavaScript` · `jQuery`
-
-🌐 **[orderapp1.dynode.in](https://orderapp1.dynode.in/)**
-
----
-
-### B2C E-Commerce Platform
-
-Customer-facing e-commerce platform connected with PMS backend for product synchronization, ordering and billing integration.
-
-**Tech:** `.NET / .NET Core MVC` · `C#` · `SQL Server` · `JavaScript` · `jQuery`
-
-🌐 **[ecom.dynode.in](https://ecom.dynode.in/)**
-
----
-
-### Trust Management System
-
-Administrative platform for member management, card printing, reporting and record handling.
-
-**Tech:** `.NET / .NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript`
-
-🌐 **[admin.abhinandantrust.org](https://admin.abhinandantrust.org/)**
-
----
-
-## Professional Experience
-
-**Full Stack Developer — Dynode Software Technology Pvt. Ltd.**
-`Apr 2024 – Present`
-
-Working on .NET-based business applications, PMS/ERP solutions, MVC modules, APIs, database workflows and e-commerce systems.
-
-**Full Stack Web Developer — Masai School**
-`Aug 2022 – Dec 2023`
-
-Full-stack web development, responsive UI, backend integration and collaborative project development.
-
-**IT Teacher — Holy Faith Public School**
-`Jan 2021 – Jul 2022`
+</td>
+</tr>
+</table>
 
 ---
 
-## Web Development Work
+# 🚀 Currently Building
 
-Selected websites I have developed or contributed to:
+## Scan-to-Invoice & Purchase Import Automation
 
-* [NK Mehandi Designer](https://nkmehandidesigner.com/)
-* [Knowledge Gram School](https://knowledgegramschool.com/)
-* [Rosemine](https://rosemine.in/)
-* [Kilkari Bihar](https://kilkaribihar.in/)
-* [Abhinandan Trust](https://abhinandantrust.org/)
-* [Dezine Quest](https://dezinequest.com/)
+**PMS / ERP • Invoice Processing • API Integration**
+
+I am currently contributing to an invoice automation feature inside a PMS application.
+
+### Workflow
+
+```text
+Invoice PDF / Image
+        ↓
+Upload / Scan
+        ↓
+Invoice Data Processing
+        ↓
+Field Mapping
+        ↓
+Structured / JSON-style Data
+        ↓
+Purchase Import
+        ↓
+Purchase Entry
+```
+
+### Key Responsibilities
+
+* Invoice PDF / image upload and processing
+* Extracting required invoice information
+* Mapping extracted information to application fields
+* Creating structured / JSON-style field mapping
+* Processing invoice data through APIs
+* Importing mapped invoice information directly into Purchase Entry
+* Integrating the workflow with the existing PMS database
+
+**Technology:**
+`.NET 10` · `ASP.NET MVC` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `jQuery` · `Database Integration`
+
+---
+
+# 🏗️ Professional Experience
+
+## Full Stack Developer
+
+### Dynode Software Technology Pvt. Ltd.
+
+**April 2024 – Present**
+
+Working on real-world business applications and production-oriented systems using the Microsoft development ecosystem.
+
+### Areas of work
+
+* .NET / .NET Core applications
+* ASP.NET MVC modules
+* C# backend development
+* REST API integration
+* SQL Server database workflows
+* PMS / ERP systems
+* B2B & B2C e-commerce
+* Business workflow implementation
+* Frontend integration
+* Administrative systems
+* Reporting and operational modules
+* Invoice, billing and purchase workflows
 
 ---
 
-## Technology
+## Full Stack Web Developer — Apprenticeship
 
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+### Masai School, Bengaluru
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**August 2022 – December 2023**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+Worked on full-stack web development, responsive interfaces, backend integration and collaborative software projects.
 
 ---
 
-## GitHub
+## IT Teacher
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hmu35&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmu35&layout=compact&hide_border=true" height="165"/>
-</p>
+### Holy Faith Public School, Sitamarhi
+
+**January 2021 – July 2022**
+
+Worked on computer fundamentals and practical IT concepts.
 
 ---
+
+# 💼 Selected Professional Projects
+
+## 01 — Sudha Bikri Kendra
+
+### Government Application Portal
+
+A recent **.NET Core MVC** application designed around government-application style workflows.
+
+### Highlights
+
+* Form-driven application workflows
+* Backend processing
+* Database-connected business logic
+* MVC architecture
+* Responsive frontend integration
+
+**Stack:**
+`.NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+
+🌐 **[Live Website](https://sudhabikrikendra.in/)**
+
+---
+
+## 02 — PMS / ERP Web Application
+
+A business management platform supporting complete business workflows.
+
+### Modules / Features
+
+* Billing
+* Invoice processing
+* Inventory
+* Stock management
+* GST
+* Reports
+* ERP workflows
+
+**Stack:**
+`ASP.NET` · `VB` · `ASPX` · `MSSQL` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+
+🌐 **[Open Application](https://pmswebdn.dynode.in/)**
+
+---
+
+## 03 — B2B Order & E-Commerce System
+
+An online B2B ordering platform integrated with the offline PMS environment.
+
+### Workflow
+
+```text
+Customer
+   ↓
+Online Order
+   ↓
+B2B Platform
+   ↓
+PMS Synchronization
+   ↓
+Billing / Reporting
+```
+
+### Features
+
+* Online product ordering
+* PMS integration
+* Product synchronization
+* Order synchronization
+* Billing workflows
+* Reports
+* Balance-sheet related workflows
+
+**Stack:**
+`.NET / .NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+
+🌐 **[Open Application](https://orderapp1.dynode.in/)**
+
+---
+
+## 04 — B2C E-Commerce Platform
+
+Customer-facing e-commerce platform connected with the PMS backend.
+
+### Features
+
+* Online ordering
+* Product synchronization
+* PMS integration
+* Billing integration
+* Customer-facing workflows
+
+**Stack:**
+`.NET / .NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+
+🌐 **[Open E-Commerce Platform](https://ecom.dynode.in/)**
+
+---
+
+## 05 — E-Commerce Logistics Management
+
+Central logistics management platform for B2B and B2C orders.
+
+### Features
+
+* Order tracking
+* Delivery workflow
+* Logistics management
+* B2B order handling
+* B2C order handling
+
+**Stack:**
+`.NET / .NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+
+🌐 **[Admin / Logistics](https://ecom.dynode.in/Admin)**
+
+---
+
+## 06 — Trust Management System
+
+Administrative web application for organizational record management.
+
+### Features
+
+* Member management
+* Card printing
+* Reporting
+* Record management
+* Administrative workflows
+
+**Stack:**
+`.NET / .NET Core MVC` · `C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript` · `jQuery`
+
+🌐 **[Open Admin System](https://admin.abhinandantrust.org/)**
+
+---
+
+## 07 — PMS / ERP Desktop Application
+
+Offline Windows-based business management application similar in scope to a traditional business accounting / ERP system.
+
+### Features
+
+* Billing
+* Invoice printing
+* Inventory
+* GST
+* Taxes
+* Reports
+* ERP business workflows
+
+**Stack:**
+`.NET` · `VB` · `Access Database`
+
+---
+
+# 🌐 Web Development Portfolio
+
+I have also developed and collaborated on responsive websites and semi-dynamic web projects using modern frontend technologies, including email integration and interactive UI functionality.
+
+### Selected Live Work
+
+| Project               | Link                                                        |
+| --------------------- | ----------------------------------------------------------- |
+| NK Mehandi Designer   | [nkmehandidesigner.com](https://nkmehandidesigner.com/)     |
+| Knowledge Gram School | [knowledgegramschool.com](https://knowledgegramschool.com/) |
+| Rosemine              | [rosemine.in](https://rosemine.in/)                         |
+| Kilkari Bihar         | [kilkaribihar.in](https://kilkaribihar.in/)                 |
+| Abhinandan Trust      | [abhinandantrust.org](https://abhinandantrust.org/)         |
+| Dezine Quest          | [dezinequest.com](https://dezinequest.com/)                 |
+
+### Web Work Includes
+
+`UI Development` · `Responsive Design` · `Forms` · `Email Integration` · `JavaScript` · `jQuery` · `Bootstrap` · `Frontend Collaboration`
+
+---
+
+# 🧰 Technology Stack
 
 <div align="center">
 
-### Let's Connect
+### Backend
 
-**[LinkedIn](https://linkedin.com/in/himanshu-kumar-764822257)** ·
-**[Portfolio](https://hmu35.github.io/)** ·
-**[GitHub](https://github.com/hmu35)** ·
-**[Email](mailto:h406627@gmail.com)**
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring&perline=8"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap&perline=8"/>
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github&perline=8"/>
 
 </div>
+
+### Core Technologies
+
+```text
+.NET              .NET Core          ASP.NET MVC
+C#                VB / VB.NET        Entity Framework
+REST APIs         SQL Server         MySQL
+HTML              CSS                JavaScript
+jQuery            Bootstrap          Git / GitHub
+Java              Spring Boot        Hibernate
+```
+
+---
+
+# 🧩 What I Build
+
+```text
+Business Applications
+        │
+        ├── PMS / ERP
+        │     ├── Billing
+        │     ├── Inventory
+        │     ├── GST
+        │     └── Reports
+        │
+        ├── E-Commerce
+        │     ├── B2B
+        │     ├── B2C
+        │     ├── Orders
+        │     └── Product Sync
+        │
+        ├── Workflow Systems
+        │     ├── Government Portals
+        │     ├── Admin Systems
+        │     └── Business Processes
+        │
+        └── Automation
+              ├── Invoice Processing
+              ├── API Integration
+              └── Purchase Import
+```
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer Application — BCA
+
+**S. R. K. G. College, Sitamarhi**
+**July 2017 – December 2020**
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hmu35&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmu35&layout=compact&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hmu35&hide_border=true" width="700"/>
+
+</div>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/himanshu-kumar-764822257">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://hmu35.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:h406627@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Himanshu Kumar**
+*Full Stack Software Developer*
+
+.NET • APIs • Databases • Business Applications • Web Systems
+
+<img src="https://komarev.com/ghpvc/?username=hmu35&label=Profile%20Views&style=flat-square"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:111827&height=120&section=footer"/>
